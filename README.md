@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RonitARK/Leetcode_Python/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/RonitARK/Leetcode_Python/tree/master/0205-isomorphic-strings) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -33,4 +34,5 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/RonitARK/Leetcode_Python/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/RonitARK/Leetcode_Python/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
