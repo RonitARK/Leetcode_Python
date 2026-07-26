@@ -32,6 +32,7 @@
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/RonitARK/Leetcode_Python/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RonitARK/Leetcode_Python/tree/master/0628-maximum-product-of-three-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/RonitARK/Leetcode_Python/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -41,4 +42,5 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/RonitARK/Leetcode_Python/tree/master/0628-maximum-product-of-three-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/RonitARK/Leetcode_Python/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
