@@ -39,14 +39,20 @@
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/RonitARK/Leetcode_Python/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/RonitARK/Leetcode_Python/tree/master/0205-isomorphic-strings) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/RonitARK/Leetcode_Python/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/RonitARK/Leetcode_Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RonitARK/Leetcode_Python/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/RonitARK/Leetcode_Python/tree/master/3536-maximum-product-of-two-digits) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/RonitARK/Leetcode_Python/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RonitARK/Leetcode_Python/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/RonitARK/Leetcode_Python/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
