@@ -31,6 +31,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/RonitARK/Leetcode_Python/tree/master/0009-palindrome-number) |
 | [0171-excel-sheet-column-number](https://github.com/RonitARK/Leetcode_Python/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RonitARK/Leetcode_Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/RonitARK/Leetcode_Python/tree/master/3536-maximum-product-of-two-digits) |
