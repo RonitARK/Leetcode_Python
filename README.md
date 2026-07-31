@@ -12,6 +12,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/RonitARK/Leetcode_Python/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/RonitARK/Leetcode_Python/tree/master/0205-isomorphic-strings) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RonitARK/Leetcode_Python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -42,12 +43,14 @@
 | [0171-excel-sheet-column-number](https://github.com/RonitARK/Leetcode_Python/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/RonitARK/Leetcode_Python/tree/master/0205-isomorphic-strings) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/RonitARK/Leetcode_Python/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RonitARK/Leetcode_Python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/RonitARK/Leetcode_Python/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/RonitARK/Leetcode_Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RonitARK/Leetcode_Python/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RonitARK/Leetcode_Python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/RonitARK/Leetcode_Python/tree/master/3536-maximum-product-of-two-digits) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/RonitARK/Leetcode_Python/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
@@ -57,9 +60,11 @@
 ## Counting Sort
 |  |
 | ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RonitARK/Leetcode_Python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/RonitARK/Leetcode_Python/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/RonitARK/Leetcode_Python/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RonitARK/Leetcode_Python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
