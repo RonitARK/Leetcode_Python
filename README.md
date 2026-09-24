@@ -8,6 +8,7 @@
 | [0486-predict-the-winner](https://github.com/RonitARK/Leetcode_Python/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RonitARK/Leetcode_Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RonitARK/Leetcode_Python/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/RonitARK/Leetcode_Python/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/RonitARK/Leetcode_Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/RonitARK/Leetcode_Python/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/RonitARK/Leetcode_Python/tree/master/3536-maximum-product-of-two-digits) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/RonitARK/Leetcode_Python/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
