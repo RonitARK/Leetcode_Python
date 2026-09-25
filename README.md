@@ -50,6 +50,7 @@
 | [0205-isomorphic-strings](https://github.com/RonitARK/Leetcode_Python/tree/master/0205-isomorphic-strings) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/RonitARK/Leetcode_Python/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RonitARK/Leetcode_Python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3811-reverse-degree-of-a-string](https://github.com/RonitARK/Leetcode_Python/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/RonitARK/Leetcode_Python/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RonitARK/Leetcode_Python/tree/master/0486-predict-the-winner) |
+## Simulation
+|  |
+| ------- |
+| [3811-reverse-degree-of-a-string](https://github.com/RonitARK/Leetcode_Python/tree/master/3811-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
